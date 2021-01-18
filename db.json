@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Connor Mulholland",
+      "image": "https://www.homemadefoodjunkie.com/wp-content/uploads/2020/01/Bacardi-Cocktail-on-table-735x734.jpg",
+      "price": "45",
+      "id": 8
     }
   ]
 }
